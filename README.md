@@ -7,3 +7,5 @@
 #Screenshots
 <p>
 ![Alt](http://i.imgur.com/1KYKkbD.png)
+![Alt](http://i.imgur.com/Ut1MFjX.png)
+![Alt](http://i.imgur.com/fd7iYlP.png)

@@ -6,4 +6,4 @@
 
 #Screenshots
 <p>
-![click me](http://i.imgur.com/1KYKkbD.png)
+![Alt](http://i.imgur.com/1KYKkbD.png)
